@@ -391,7 +391,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Team
 
-Developed by [SreeRag1907](https://github.com/SreeRag1907)
+Developed by [Gurjas2112](https://github.com/Gurjas2112)
 
 ## 🙏 Acknowledgments
 
